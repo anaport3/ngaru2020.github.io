@@ -31,8 +31,8 @@ img {
 }
 
 h1 {
-  text-align: center;
-  color: blue;
+  text-align: justify;
+  color: pink;
   font: 60px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
@@ -50,14 +50,14 @@ h3 {
 }
 
 h4 {
-  text-align: center;
+  text-align: centre;
   color: black;
   font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
 p {
-  text-align: center;
-  color: black;
+  text-align: justify;
+  color: purple;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
